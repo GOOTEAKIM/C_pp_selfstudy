@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec10_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec10_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec10_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec10_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec15_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec15_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec15_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec15_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lec10_1.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec10_1.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec10_1.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec10_1.cpp",
+              "RelativeToolTip": "basic_1\\lec10_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T08:28:13.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lec12.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec12.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec12.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec12.cpp",
+              "RelativeToolTip": "basic_1\\lec12.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T08:21:33.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lec11.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec11.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec11.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec11.cpp",
+              "RelativeToolTip": "basic_1\\lec11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T08:21:26.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lec9.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec9.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec9.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec9.cpp",
+              "RelativeToolTip": "basic_1\\lec9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T08:21:22.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lec3.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec3.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec3.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec3.cpp",
+              "RelativeToolTip": "basic_1\\lec3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T07:06:53.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lec4.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec4.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec4.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec4.cpp",
+              "RelativeToolTip": "basic_1\\lec4.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T08:20:58.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lec10_2.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec10_2.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec10_2.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec10_2.cpp",
+              "RelativeToolTip": "basic_1\\lec10_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T07:27:26.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lec8.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec8.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec8.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec8.cpp",
+              "RelativeToolTip": "basic_1\\lec8.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T08:21:16.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "lec7.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec7.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec7.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec7.cpp",
+              "RelativeToolTip": "basic_1\\lec7.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T08:21:14.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "lec6.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec6.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec6.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec6.cpp",
+              "RelativeToolTip": "basic_1\\lec6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T08:21:09.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "lec5.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec5.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec5.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec5.cpp",
+              "RelativeToolTip": "basic_1\\lec5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T08:21:02.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "lec13.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec13.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec13.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec13.cpp",
+              "RelativeToolTip": "basic_1\\lec13.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T08:21:40.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "lec14.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec14.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec14.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec14.cpp",
+              "RelativeToolTip": "basic_1\\lec14.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T08:22:32.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "lec15_1.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec15_1.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec15_1.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec15_1.cpp",
+              "RelativeToolTip": "basic_1\\lec15_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T08:22:39.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "lec15_2.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec15_2.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec15_2.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\source\\repos\\basic_1\\basic_1\\lec15_2.cpp",
+              "RelativeToolTip": "basic_1\\lec15_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T08:23:48.282Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
