@@ -5,6 +5,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec15_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec15_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec15_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec15_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec10_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec10_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec10_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3DB9F7-CF62-4906-841A-09FE07620C56}|basic_1\\basic_1.vcxproj|solutionrelative:basic_1\\lec10_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +42,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lec15_2.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec15_2.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec15_2.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec15_2.cpp",
+              "RelativeToolTip": "basic_1\\lec15_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T00:13:28.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lec15_1.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec15_1.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec15_1.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec15_1.cpp",
+              "RelativeToolTip": "basic_1\\lec15_1.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T00:13:23.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lec14.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec14.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec14.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec14.cpp",
+              "RelativeToolTip": "basic_1\\lec14.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T00:13:07.915Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +91,61 @@
               "RelativeDocumentMoniker": "basic_1\\lec9.cpp",
               "ToolTip": "C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec9.cpp",
               "RelativeToolTip": "basic_1\\lec9.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-23T00:07:57.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lec13.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec13.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec13.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec13.cpp",
+              "RelativeToolTip": "basic_1\\lec13.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T00:12:45.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lec12.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec12.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec12.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec12.cpp",
+              "RelativeToolTip": "basic_1\\lec12.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T00:12:30.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lec10_2.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec10_2.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec10_2.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec10_2.cpp",
+              "RelativeToolTip": "basic_1\\lec10_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T00:10:41.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lec10_1.cpp",
+              "DocumentMoniker": "C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec10_1.cpp",
+              "RelativeDocumentMoniker": "basic_1\\lec10_1.cpp",
+              "ToolTip": "C:\\Users\\SSAFY\\Desktop\\C_pp_selfstudy\\coding_panda_basic\\basic_1\\lec10_1.cpp",
+              "RelativeToolTip": "basic_1\\lec10_1.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T00:10:35.31Z",
               "EditorCaption": ""
             }
           ]

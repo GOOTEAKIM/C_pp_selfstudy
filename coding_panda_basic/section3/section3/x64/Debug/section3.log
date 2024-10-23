@@ -1,2 +1,3 @@
-﻿  lec3_7.cpp
+﻿  lec3_2.cpp
+C:\Users\SSAFY\Desktop\C_pp_selfstudy\coding_panda_basic\section3\section3\lec3_2.cpp(43,7): warning C4101: 'char1' :참조되지 않은 지역 변수입니다.
   section3.vcxproj -> C:\Users\SSAFY\Desktop\C_pp_selfstudy\coding_panda_basic\section3\x64\Debug\section3.exe
