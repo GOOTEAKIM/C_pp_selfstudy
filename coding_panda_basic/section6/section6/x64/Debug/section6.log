@@ -1,0 +1,8 @@
+﻿  lec6_1.cpp
+C:\Users\SSAFY\Desktop\C_pp_selfstudy\coding_panda_basic\section6\section6\lec6_1.cpp(7,19): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  lec6_2.cpp
+  lec6_3.cpp
+  lec6_4.cpp
+  lec6_5.cpp
+  코드를 생성하고 있습니다...
+  section6.vcxproj -> C:\Users\SSAFY\Desktop\C_pp_selfstudy\coding_panda_basic\section6\x64\Debug\section6.exe
