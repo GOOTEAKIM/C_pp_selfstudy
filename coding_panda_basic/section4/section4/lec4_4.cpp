@@ -7,16 +7,17 @@ using namespace std;
 int main() {
 
 	// 배열 기반 반복문
-	int a[5] = { 1,3,5,7,9 };
+	int arr[5] = { 1,3,5,7,9 };
 
 	for (int i = 0; i < 5; i++) {
-		cout << a[i];
+		cout << arr[i] << endl;
 
 	}
 
 	cout << "\n";
+
 	// for 문의 조건에 배열을 넣어준다.
-	for (int i : a) {
+	for (int i : arr) {
 		cout << i << endl;
 	}
 
