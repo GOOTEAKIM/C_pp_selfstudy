@@ -15,30 +15,17 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="b_1000.cpp">
+    <ClCompile Include="lec7_1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="b_10952.cpp">
+    <ClCompile Include="lec7_2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="b_2440.cpp">
+    <ClCompile Include="lec7_3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="b_2441.cpp">
+    <ClCompile Include="lec7_4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="b_10833.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-<<<<<<< HEAD
-    <ClCompile Include="st_6295.cpp">
-=======
-    <ClCompile Include="b_9085.cpp">
->>>>>>> 4a3245d0b0508e2ad4cc883eacc984268f6fdef9
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="input.txt" />
   </ItemGroup>
 </Project>
