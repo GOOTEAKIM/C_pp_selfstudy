@@ -1,2 +1,20 @@
-﻿  lec7_3.cpp
-  section7.vcxproj -> C:\Users\SSAFY\Desktop\C_pp_selfstudy\coding_panda_basic\section7\x64\Debug\section7.exe
+﻿  lec7_4.cpp
+C:\Users\user\Desktop\C_pp_selfstudy\coding_panda_basic\section7\section7\lec7_4.cpp(18,10): error C2668: 'sum': 오버로드된 함수에 대한 호출이 모호합니다.
+      C:\Users\user\Desktop\C_pp_selfstudy\coding_panda_basic\section7\section7\lec7_4.cpp(11,5):
+      'Any sum<int>(int,Any)'일 수 있습니다.
+          with
+          [
+              Any=int
+          ]
+      C:\Users\user\Desktop\C_pp_selfstudy\coding_panda_basic\section7\section7\lec7_4.cpp(8,5):
+      또는       'Any sum<int>(Any,Any)'
+          with
+          [
+              Any=int
+          ]
+      C:\Users\user\Desktop\C_pp_selfstudy\coding_panda_basic\section7\section7\lec7_4.cpp(18,10):
+      인수 목록 '(int, int)'을(를) 일치시키는 동안
+  
+C:\Users\user\Desktop\C_pp_selfstudy\coding_panda_basic\section7\section7\lec7_4.cpp(18,7): error C2088: 기본 제공 연산자 '<<'은(는) 'std::ostream' 형식의 피연산자에 적용될 수 없습니다.
+C:\Users\user\Desktop\C_pp_selfstudy\coding_panda_basic\section7\section7\lec7_4.cpp(20,10): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\C_pp_selfstudy\coding_panda_basic\section7\section7\lec7_4.cpp(21,10): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
